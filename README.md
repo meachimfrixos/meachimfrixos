@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @meachimfrixos
-- 👀 I’m interested in ... Games, Finance, Machine Learning, Poker
-- 🌱 I’m currently learning ... How to finish projects 😅
-- 💞️ I’m looking to collaborate on ... pretty much everything 
-- 📫 How to reach me ... email: meachim.frixos@gmail.com
+-  Hi, I’m @meachimfrixos
+-  I’m interested in Finance, Machine Learning, Games
+-  You can reach me at meachim.frixos@gmail.com
